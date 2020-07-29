@@ -1,0 +1,2 @@
+# Modificator
+ Modifies mouse buttons
