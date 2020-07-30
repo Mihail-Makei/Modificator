@@ -5,3 +5,8 @@
 .vs/Modificator/v16/Browse.VC.opendb
 .vs/Modificator/v16/ipch/AutoPCH/359cd1c66e41b6aa/SOURCE.ipch
 .vs/Modificator/v16/ipch/AutoPCH/d8410784a63f7391/SOURCE.ipch
+.vs/Modificator/v16/.suo
+*.tlog
+*.pdb
+*.obj
+*.log
